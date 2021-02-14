@@ -1,0 +1,11 @@
+{
+  "script": "return (function setCustomCss(cssOptions) {\n    if (document.head == null) {\n        return;\n    }\n    var disableTransformationsTransitionsAnimations = \"\\n* {\\n    -o-transition-property: none !important;\\n    -moz-transition-property: none !important;\\n    -ms-transition-property: none !important;\\n    -webkit-transition-property: none !important;\\n    transition-property: none !important;\\n    -webkit-animation: none !important;\\n    -moz-animation: none !important;\\n    -o-animation: none !important;\\n    -ms-animation: none !important;\\n    animation: none !important;\\n}\";\n    var addressBarPadding = cssOptions.addressBarPadding, disableCSSAnimation = cssOptions.disableCSSAnimation, id = cssOptions.id, toolBarPadding = cssOptions.toolBarPadding;\n    var bodyTopPadding = addressBarPadding === 0 ? '' : \"body{padding-top:\" + addressBarPadding + \"px !important}\";\n    var bodyBottomPadding = toolBarPadding === 0 ? '' : \"body{padding-bottom:\" + toolBarPadding + \"px !important}\";\n    var css = (disableCSSAnimation ? disableTransformationsTransitionsAnimations : '') + bodyTopPadding + bodyBottomPadding;\n    var head = document.head;\n    var style = document.createElement('style');\n    style.id = id;\n    style.appendChild(document.createTextNode(css));\n    head.appendChild(style);\n}).apply(null, arguments)",
+  "args": [
+    {
+      "addressBarPadding": 0,
+      "disableCSSAnimation": true,
+      "id": "pic-css",
+      "toolBarPadding": 0
+    }
+  ]
+}

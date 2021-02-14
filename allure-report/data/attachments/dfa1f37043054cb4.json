@@ -1,0 +1,6 @@
+{
+  "script": "return (function removeElementFromDom(id) {\n    var elem = document.querySelector(\"#\" + id);\n    if (elem != null) {\n        elem.parentNode.removeChild(elem);\n    }\n}).apply(null, arguments)",
+  "args": [
+    "pic-css"
+  ]
+}

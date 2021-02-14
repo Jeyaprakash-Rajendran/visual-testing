@@ -1,0 +1,201 @@
+[ {
+  "uid" : "ec3ae1090820797a",
+  "name" : "should compare shop XC90 R-Design page screenshot",
+  "time" : {
+    "start" : 1613287540326,
+    "stop" : 1613287545638,
+    "duration" : 5312
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "575782b3912aac07",
+  "name" : "should compare Learn More about safety page screenshot",
+  "time" : {
+    "start" : 1613287528605,
+    "stop" : 1613287535598,
+    "duration" : 6993
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0196b9f2d48e7b6",
+  "name" : "should compare volvo recharge page screenshot",
+  "time" : {
+    "start" : 1613287546347,
+    "stop" : 1613287551058,
+    "duration" : 4711
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f3965be1d73b35b",
+  "name" : "should compare Full page screenshot with baseline",
+  "time" : {
+    "start" : 1613287494360,
+    "stop" : 1613287535212,
+    "duration" : 40852
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e4d87ccc6588828",
+  "name" : "should compare NavigationHeader Screenshot",
+  "time" : {
+    "start" : 1613287493282,
+    "stop" : 1613287512776,
+    "duration" : 19494
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e42beee197825f51",
+  "name" : "should compare Tabbable page screenshot with baseline",
+  "time" : {
+    "start" : 1613287494079,
+    "stop" : 1613287533151,
+    "duration" : 39072
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4309a7b6e2d80025",
+  "name" : "should compare NavigationHeader Screenshot",
+  "time" : {
+    "start" : 1613287498410,
+    "stop" : 1613287514821,
+    "duration" : 16411
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6c137d28398d485",
+  "name" : "should compare volvo recharge page screenshot",
+  "time" : {
+    "start" : 1613287545638,
+    "stop" : 1613287550668,
+    "duration" : 5030
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "299017ce0d790678",
+  "name" : "should compare Tabbable page screenshot with baseline",
+  "time" : {
+    "start" : 1613287495441,
+    "stop" : 1613287531242,
+    "duration" : 35801
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d762ca6c8ca24dc",
+  "name" : "should compare Learn More button navigation screenshot",
+  "time" : {
+    "start" : 1613287521837,
+    "stop" : 1613287528604,
+    "duration" : 6767
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c87666745be43763",
+  "name" : "should compare side navigation menu screenshot",
+  "time" : {
+    "start" : 1613287512788,
+    "stop" : 1613287520922,
+    "duration" : 8134
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b1febdcf5799220",
+  "name" : "should compare shop XC90 R-Design page screenshot",
+  "time" : {
+    "start" : 1613287541235,
+    "stop" : 1613287546347,
+    "duration" : 5112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38ead11340c9df2e",
+  "name" : "should compare Learn XC90 Recharge page screenshot",
+  "time" : {
+    "start" : 1613287535599,
+    "stop" : 1613287541235,
+    "duration" : 5636
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50ffd290d2768e3",
+  "name" : "should compare Learn More button navigation screenshot",
+  "time" : {
+    "start" : 1613287520923,
+    "stop" : 1613287527700,
+    "duration" : 6777
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c054b7c8a22eaa4c",
+  "name" : "should compare Mild Hybrids page screenshot",
+  "time" : {
+    "start" : 1613287551058,
+    "stop" : 1613287554983,
+    "duration" : 3925
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1ee47d5179084cd",
+  "name" : "should compare side navigation menu screenshot",
+  "time" : {
+    "start" : 1613287514822,
+    "stop" : 1613287521837,
+    "duration" : 7015
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37d06ddb9f19c214",
+  "name" : "should compare Learn XC90 Recharge page screenshot",
+  "time" : {
+    "start" : 1613287534086,
+    "stop" : 1613287540326,
+    "duration" : 6240
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7144b4eb3248f5e",
+  "name" : "should compare Mild Hybrids page screenshot",
+  "time" : {
+    "start" : 1613287550668,
+    "stop" : 1613287555130,
+    "duration" : 4462
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39bc9d36bdbbc4cd",
+  "name" : "should compare Learn More about safety page screenshot",
+  "time" : {
+    "start" : 1613287527701,
+    "stop" : 1613287534083,
+    "duration" : 6382
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "185986fbb5f5fd63",
+  "name" : "should compare Full page screenshot with baseline",
+  "time" : {
+    "start" : 1613287494171,
+    "stop" : 1613287527205,
+    "duration" : 33034
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

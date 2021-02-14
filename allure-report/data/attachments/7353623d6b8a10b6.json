@@ -1,0 +1,6 @@
+{
+  "script": "return (function scrollToPosition(yPosition) {\n    (document.scrollingElement || document.documentElement).scrollTop = yPosition;\n}).apply(null, arguments)",
+  "args": [
+    0
+  ]
+}

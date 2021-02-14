@@ -1,0 +1,277 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "SaveMillions Navigation",
+    "children" : [ {
+      "name" : "should compare NavigationHeader Screenshot",
+      "uid" : "9e4d87ccc6588828",
+      "parentUid" : "e1000c5d84c4fe9288ea927e8cd06dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287493282,
+        "stop" : 1613287512776,
+        "duration" : 19494
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.150" ]
+    }, {
+      "name" : "should compare NavigationHeader Screenshot",
+      "uid" : "4309a7b6e2d80025",
+      "parentUid" : "e1000c5d84c4fe9288ea927e8cd06dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287498410,
+        "stop" : 1613287514821,
+        "duration" : 16411
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-85.0.2" ]
+    }, {
+      "name" : "should compare side navigation menu screenshot",
+      "uid" : "c87666745be43763",
+      "parentUid" : "e1000c5d84c4fe9288ea927e8cd06dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287512788,
+        "stop" : 1613287520922,
+        "duration" : 8134
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.150" ]
+    }, {
+      "name" : "should compare side navigation menu screenshot",
+      "uid" : "c1ee47d5179084cd",
+      "parentUid" : "e1000c5d84c4fe9288ea927e8cd06dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287514822,
+        "stop" : 1613287521837,
+        "duration" : 7015
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-85.0.2" ]
+    }, {
+      "name" : "should compare Learn More button navigation screenshot",
+      "uid" : "50ffd290d2768e3",
+      "parentUid" : "e1000c5d84c4fe9288ea927e8cd06dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287520923,
+        "stop" : 1613287527700,
+        "duration" : 6777
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.150" ]
+    }, {
+      "name" : "should compare Learn More button navigation screenshot",
+      "uid" : "4d762ca6c8ca24dc",
+      "parentUid" : "e1000c5d84c4fe9288ea927e8cd06dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287521837,
+        "stop" : 1613287528604,
+        "duration" : 6767
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-85.0.2" ]
+    }, {
+      "name" : "should compare Learn More about safety page screenshot",
+      "uid" : "39bc9d36bdbbc4cd",
+      "parentUid" : "e1000c5d84c4fe9288ea927e8cd06dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287527701,
+        "stop" : 1613287534083,
+        "duration" : 6382
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.150" ]
+    }, {
+      "name" : "should compare Learn More about safety page screenshot",
+      "uid" : "575782b3912aac07",
+      "parentUid" : "e1000c5d84c4fe9288ea927e8cd06dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287528605,
+        "stop" : 1613287535598,
+        "duration" : 6993
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-85.0.2" ]
+    }, {
+      "name" : "should compare Learn XC90 Recharge page screenshot",
+      "uid" : "37d06ddb9f19c214",
+      "parentUid" : "e1000c5d84c4fe9288ea927e8cd06dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287534086,
+        "stop" : 1613287540326,
+        "duration" : 6240
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.150" ]
+    }, {
+      "name" : "should compare Learn XC90 Recharge page screenshot",
+      "uid" : "38ead11340c9df2e",
+      "parentUid" : "e1000c5d84c4fe9288ea927e8cd06dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287535599,
+        "stop" : 1613287541235,
+        "duration" : 5636
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-85.0.2" ]
+    }, {
+      "name" : "should compare shop XC90 R-Design page screenshot",
+      "uid" : "ec3ae1090820797a",
+      "parentUid" : "e1000c5d84c4fe9288ea927e8cd06dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287540326,
+        "stop" : 1613287545638,
+        "duration" : 5312
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.150" ]
+    }, {
+      "name" : "should compare shop XC90 R-Design page screenshot",
+      "uid" : "6b1febdcf5799220",
+      "parentUid" : "e1000c5d84c4fe9288ea927e8cd06dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287541235,
+        "stop" : 1613287546347,
+        "duration" : 5112
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-85.0.2" ]
+    }, {
+      "name" : "should compare volvo recharge page screenshot",
+      "uid" : "a6c137d28398d485",
+      "parentUid" : "e1000c5d84c4fe9288ea927e8cd06dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287545638,
+        "stop" : 1613287550668,
+        "duration" : 5030
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.150" ]
+    }, {
+      "name" : "should compare volvo recharge page screenshot",
+      "uid" : "a0196b9f2d48e7b6",
+      "parentUid" : "e1000c5d84c4fe9288ea927e8cd06dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287546347,
+        "stop" : 1613287551058,
+        "duration" : 4711
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-85.0.2" ]
+    }, {
+      "name" : "should compare Mild Hybrids page screenshot",
+      "uid" : "e7144b4eb3248f5e",
+      "parentUid" : "e1000c5d84c4fe9288ea927e8cd06dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287550668,
+        "stop" : 1613287555130,
+        "duration" : 4462
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.150" ]
+    }, {
+      "name" : "should compare Mild Hybrids page screenshot",
+      "uid" : "c054b7c8a22eaa4c",
+      "parentUid" : "e1000c5d84c4fe9288ea927e8cd06dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287551058,
+        "stop" : 1613287554983,
+        "duration" : 3925
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-85.0.2" ]
+    } ],
+    "uid" : "e1000c5d84c4fe9288ea927e8cd06dcf"
+  }, {
+    "name" : "Save Millions Tabbable page",
+    "children" : [ {
+      "name" : "should compare Tabbable page screenshot with baseline",
+      "uid" : "e42beee197825f51",
+      "parentUid" : "5c67ec27654ffba76991278ded06a847",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287494079,
+        "stop" : 1613287533151,
+        "duration" : 39072
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.150" ]
+    }, {
+      "name" : "should compare Tabbable page screenshot with baseline",
+      "uid" : "299017ce0d790678",
+      "parentUid" : "5c67ec27654ffba76991278ded06a847",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287495441,
+        "stop" : 1613287531242,
+        "duration" : 35801
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-85.0.2" ]
+    } ],
+    "uid" : "5c67ec27654ffba76991278ded06a847"
+  }, {
+    "name" : "Save Millions Full page",
+    "children" : [ {
+      "name" : "should compare Full page screenshot with baseline",
+      "uid" : "185986fbb5f5fd63",
+      "parentUid" : "4189dab3a3251cdc568e25a3965c1e4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287494171,
+        "stop" : 1613287527205,
+        "duration" : 33034
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-85.0.2" ]
+    }, {
+      "name" : "should compare Full page screenshot with baseline",
+      "uid" : "5f3965be1d73b35b",
+      "parentUid" : "4189dab3a3251cdc568e25a3965c1e4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613287494360,
+        "stop" : 1613287535212,
+        "duration" : 40852
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.150" ]
+    } ],
+    "uid" : "4189dab3a3251cdc568e25a3965c1e4e"
+  } ]
+}
