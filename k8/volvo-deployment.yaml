@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: volvo-testing
+  labels:
+    app: volvo-testing
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: volvo-testing
+  template:
+    metadata:
+      labels:
+        app: volvo-testing
+    spec:
+      volumes:
+      - name: dshm
+        emptyDir:
+          medium: Memory
+      containers:
+      - name: volvo-testing
+        image: volvo-testing:1.0.0
+        imagePullPolicy: Never
+        ports:
+          - containerPort: 5555
+        volumeMounts:
+          - mountPath: /dev/shm
+            name: dshm
+        resources:
+          limits:
+            memory: "1000Mi"
+            cpu: ".5"
